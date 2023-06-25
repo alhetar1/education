@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+}
+header h2{
+    background-color: blue;
+    color:white;
+    padding: 15px 0px 15px 20px;
+
+}
+body{
+    background-image: url(img/logo.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-x:95% ;
+    background-position-y: 20%;
+    background-attachment: fixed;
+}
+article{
+    width:70%;
+    margin:2%;
+
+}
+article h3{
+    background-color: red;
+    color:white;
+    padding:12px;
+}
